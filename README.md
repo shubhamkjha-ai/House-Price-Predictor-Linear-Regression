@@ -152,6 +152,8 @@ jupyter notebook house_price_prediction.ipynb
 
 **Shubham Kumar Jha**  
 B.Tech CSE (2025-29) | BIT Sindri
+
+
 Machine Learning Intern at SkillCraft Technology
 
 ---
